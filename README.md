@@ -21,7 +21,7 @@ Multi-language Support: Works with transcripts from various languages.
 Export Options: Save your summaries in multiple formats (Text, PDF, etc.).  
 
 ## Usage
-As of now, I am putting up a jupyter notebook (ipynb) file. You can run the code cells in your local installation, Google Colab etc. You will need to provide your own gpt-3.5-turbo API key. Just replace the placeholder for the key with your own API key.    
+As of now, I am putting up a jupyter notebook (ipynb): 'Youtube video summary.ipynb'. You can run this notbook in your local installation, Google Colab etc. You will need to provide your own gpt-3.5-turbo API key. Just replace the placeholder for the key with your own API key.    
 In the future, I would like to create a Python package even possibly a user interface. Any contribution from the community is welcome. 
 
 ## How it works

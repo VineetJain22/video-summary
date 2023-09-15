@@ -21,8 +21,9 @@ Multi-language Support: Works with transcripts from various languages.
 Export Options: Save your summaries in multiple formats (Text, PDF, etc.).  
 
 ## Usage
-As of now, I am putting up a jupyter notebook (ipynb): 'Youtube video summary.ipynb'. You can run this notbook in your local installation, Google Colab etc. You will need to provide your own gpt-3.5-turbo API key. Just replace the placeholder for the key with your own API key.    
-In the future, I would like to create a Python package even possibly a user interface. Any contribution from the community is welcome. 
+Currently, the project includes a Jupyter notebook titled Youtube video summary.ipynb. You can download and run the notebook in your local installation or in the Cloud like Google Colab. Note that you'll need to supply your own GPT-3.5 Turbo API key; simply swap out the existing placeholder with your personal key.  
+
+Looking ahead, the project could be developed into a standalone Python package and potentially with a user interface. Contributions from the community are highly encouraged and appreciated.
 
 ## How it works
 Scrape Transcript: The tool scrapes the transcript of the provided YouTube video URL (thanks to Jonas Depoix's Python package, link to package is provided below)   

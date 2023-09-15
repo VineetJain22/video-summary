@@ -1,5 +1,7 @@
 # video-summary
-Get summary of YouTube videos almost instantly.
+Get summary of YouTube videos almost instantly. No more spending hours watching long tutorials, meetings, or lectures.  
+Get the gist in minutes! 🚀
+
 
 ## Table of Contents
 Features    
@@ -9,12 +11,11 @@ License
 
 ## Features 🌟
 👨‍💻 Why is this Important?  
-No more spending hours watching long tutorials, meetings, or lectures. Get the gist in minutes! 🚀   
 Time-Saving: Get the information you need quickly.  
 Accessibility: Makes content easier to digest for everyone.  
 Versatility: Can be used for personal learning, business meetings, academic lectures, and more!    
 
-The following features could be easily implemented. I intend to do so soon.  
+The following features could be easily implemented with some more time.  
 Customizable Summary Lengths: Generate summaries that fit your specific needs.  
 Multi-language Support: Works with transcripts from various languages.  
 Export Options: Save your summaries in multiple formats (Text, PDF, etc.).  

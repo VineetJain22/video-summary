@@ -1,5 +1,5 @@
 # video-summary
-Get summary of YouTube videos almost instantly. No more spending hours watching long tutorials, meetings, or lectures.  
+No more spending hours watching long tutorials, meetings, or lectures.  Get summary of YouTube videos almost instantly.
 Get the gist in minutes! 🚀
 
 
@@ -21,7 +21,7 @@ Multi-language Support: Works with transcripts from various languages.
 Export Options: Save your summaries in multiple formats (Text, PDF, etc.).  
 
 ## Usage
-Currently, the project includes a Jupyter notebook titled Youtube video summary.ipynb. You can download and run the notebook in your local installation or in the Cloud like Google Colab. Note that you'll need to supply your own GPT-3.5 Turbo API key; simply swap out the existing placeholder with your personal key.  
+Currently, the project includes a Jupyter notebook titled 'Youtube video summary.ipynb'. You can download and run the notebook in your local installation or in the Cloud like Google Colab. Note that you'll need to supply your own GPT-3.5 Turbo API key; simply swap out the existing placeholder with your personal key.  
 
 Looking ahead, the project could be developed into a standalone Python package and potentially with a user interface. Contributions from the community are highly encouraged and appreciated.
 

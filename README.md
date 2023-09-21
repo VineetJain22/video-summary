@@ -1,5 +1,5 @@
 # video-summary
-No more spending hours watching long tutorials, meetings, or lectures.  Get summary of YouTube videos almost instantly.
+Get summary of YouTube videos almost instantly.
 Get the gist in minutes! 🚀
 
 
